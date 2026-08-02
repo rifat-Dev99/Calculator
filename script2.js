@@ -146,13 +146,7 @@ display.innerText = "0";
 
 
 
-
-
-
-
-
-
-
+//USE EVAL FUNCTION TO CALCULATE THE RESULT OF THE EXPRESSION
 
 // const display = document.querySelector(".display");
 // const buttons = document.querySelectorAll(".buttons button");
