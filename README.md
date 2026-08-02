@@ -31,7 +31,7 @@ calculator/
 
 ## 📸 Screenshot
 
-Add a screenshot of the project here.
+......................................
 
 ## 📚 What I Learned
 
@@ -42,4 +42,4 @@ Add a screenshot of the project here.
 
 ## 👨‍💻 Author
 
-Developed by **Rifst**
+Developed by **Rifat**
